@@ -40,4 +40,5 @@ Temporary Items
 .apdisk
 .gitignore
 
-.idea/*
+/.idea/
+.idea/workspace.xml
