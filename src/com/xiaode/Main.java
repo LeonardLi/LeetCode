@@ -6,17 +6,22 @@ import com.xiaode.MediumSolutions.CountingBits;
 import com.xiaode.MediumSolutions.ContainerWithMostWater;
 
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Main {
-
-	// write your code here
+private static final Logger myLogger = Logger.getLogger("com.xiaode");
         public static void main(String[] args)  {
-            Scanner in = new Scanner(System.in);
-            int maxQps= Integer.valueOf(in.nextLine());
-            final String[] rtList = in.nextLine().split(",");
-            final int requestNum = Integer.valueOf(in.nextLine());
-            final int threadNum = Integer.valueOf(in.nextLine());
-            System.out.println(doneTime(maxQps, rtList, requestNum, threadNum));
+            //myLogger.getGlobal().setLevel(Level.OFF);
+//            myLogger.getGlobal().info("begin");
+//            Scanner in = new Scanner(System.in);
+//            int maxQps= Integer.valueOf(in.nextLine());
+//            final String[] rtList = in.nextLine().split(",");
+//            final int requestNum = Integer.valueOf(in.nextLine());
+//            final int threadNum = Integer.valueOf(in.nextLine());
+//            System.out.println(doneTime(maxQps, rtList, requestNum, threadNum));
+            System.out.println(ValidParentheses.isValid("[])"));
+
         }
         /**
          * 如果使用最优的最大吞吐量负载均衡算法，按照最优模型多久能够处理完所有请求，单位毫秒。
