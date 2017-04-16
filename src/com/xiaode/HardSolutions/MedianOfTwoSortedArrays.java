@@ -46,7 +46,7 @@ public class MedianOfTwoSortedArrays {
                 }
             }
             median = (double)(temp+(nums1[j<nums1.length-1?j:nums1.length-1]<nums2[k<nums2.length-1?k:(nums2.length-1)]?nums1[j<nums1.length-1?j:nums1.length-1]:nums2[k<nums2.length-1?k:(nums2.length-1)]))/2;
-        }else { 
+        }else {
             //odd
             int j=0,k=0;
             for (int i = 1; i<= total/2+1;i++){
