@@ -21,6 +21,7 @@ private static final Logger myLogger = Logger.getLogger("com.xiaode");
 //            final int threadNum = Integer.valueOf(in.nextLine());
 //            System.out.println(doneTime(maxQps, rtList, requestNum, threadNum));
             System.out.println(ValidParentheses.isValid("[])"));
+            System.out.println("hhhhh");
 
         }
         /**
