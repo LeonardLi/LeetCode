@@ -1,5 +1,8 @@
 package com.xiaode.EffectiveJava;
 
+import java.lang.ref.SoftReference;
+import java.lang.ref.WeakReference;
+
 /**
  * Created by leonard on 12/03/2017.
  */
@@ -18,6 +21,8 @@ public class SingletonExample {
     // 3. 并发存在风险
     private static SingletonExample instance2;
     public static final SingletonExample getInstance2(){
+
+
         if(instance2 == null){
             instance2 = new SingletonExample();
             return  instance2;
