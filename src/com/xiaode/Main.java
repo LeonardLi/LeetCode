@@ -14,18 +14,7 @@ public class Main {
     private static final Logger myLogger = Logger.getLogger("com.xiaode");
 
     public static void main(String[] args) {
-//	// write your code here
-//        MedianOfTwoSortedArrays ma = new MedianOfTwoSortedArrays();
-//        ma.findMedianSortedArray(new int[]{1,2},new int[]{3,4});
-//        MyThread myThread =  new MyThread();
-//        myThread.start();
-//        try {
-//            Thread.sleep(1000);
-//            myThread.interrupt();
-//            System.out.println(myThread.isInterrupted());
-//        }catch (InterruptedException e){
-//            e.printStackTrace();
-//        }
+
 
         Scanner in = new Scanner(System.in);
         String test = in.nextLine();
@@ -56,18 +45,18 @@ public class Main {
         }
         if (match[0]) return 1;
         return 0;
-
     }
+}
 
-    class MyThread extends Thread {
-        private int count = 5;
 
-        @Override
-        synchronized public void run() {
-            super.run();
-            for (int i = 0; i < 50000000; i++) System.out.println(i);
+class MyThread extends Thread {
+    private int count = 5;
 
-        }
+    @Override
+    synchronized public void run() {
+        super.run();
+        for (int i = 0; i < 50000000; i++) System.out.println(i);
+
     }
 
     /**
@@ -83,6 +72,7 @@ public class Main {
     }
 
 }
+
 //
 //输入:
 //        输入数据包含5行数字: 第一行是每台broker的极限QPS 第二行是broker rt列表,用逗号分割，几个rt表示几个broker 第三行是消息生产请求总数 第四行是最大并发线程数
