@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RepeatedStringMatch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RepeatedStringMatch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="396">
+              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidPalindromeII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="25" column="118" selection-start-line="25" selection-start-column="118" selection-end-line="25" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -77,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/Main3.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java" />
       </list>
     </option>
   </component>
@@ -152,16 +160,6 @@
               <item name="xiaode" type="462c0819:PsiDirectoryNode" />
               <item name="EasySolutions" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaode" type="462c0819:PsiDirectoryNode" />
-              <item name="EasySolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Services.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatedStringMatch">
+  <component name="RunManager" selected="Application.ValidPalindromeII">
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaode.Main3" />
       <module name="LeetCode" />
@@ -215,17 +213,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PeakIndexInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.PeakIndexInMountainArray" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="RepeatedStringMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.RepeatedStringMatch" />
       <module name="LeetCode" />
@@ -239,6 +226,17 @@
     </configuration>
     <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.ValidPalindrome" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ValidPalindromeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.ValidPalindromeII" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -290,19 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PeakIndexInMountainArray" />
       <item itemvalue="Application.ValidPalindrome" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.MinStack" />
       <item itemvalue="Application.RepeatedStringMatch" />
+      <item itemvalue="Application.ValidPalindromeII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPalindromeII" />
         <item itemvalue="Application.RepeatedStringMatch" />
         <item itemvalue="Application.MinStack" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.ValidPalindrome" />
-        <item itemvalue="Application.PeakIndexInMountainArray" />
       </list>
     </recent_temporary>
   </component>
@@ -322,12 +320,12 @@
       <workItem from="1530426629161" duration="9555000" />
       <workItem from="1530451457369" duration="26000" />
       <workItem from="1530451505243" duration="49000" />
-      <workItem from="1530498863053" duration="7046000" />
+      <workItem from="1530498863053" duration="8901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20411000" />
+    <option name="totallyTimeSpent" value="22266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -459,38 +457,34 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java</url>
-          <line>48</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java</url>
+          <line>20</line>
           <properties />
-          <option name="timeStamp" value="16" />
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java</url>
-          <line>49</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java</url>
+          <line>16</line>
           <properties />
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java</url>
-          <line>50</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java</url>
+          <line>40</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/PreOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -834,8 +828,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RepeatedStringMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="396">
+          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindromeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="118" selection-start-line="25" selection-start-column="118" selection-end-line="25" selection-end-column="118" />
         </state>
       </provider>
     </entry>
