@@ -18,6 +18,11 @@ package com.xiaode.MediumSolutions;
  * If you reach any square (including the target) at the same time as a ghost, it doesn't count as an escape.
  *
  * Return True if and only if it is possible to escape.
+ *
+ * Note:
+ *
+ * All points have coordinates with absolute value <= 10000.
+ * The number of ghosts will not exceed 100.
  */
 public class EscapeTheGhosts {
 }
