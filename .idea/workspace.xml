@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EscapeTheGhosts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EscapeTheGhosts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,26 +25,12 @@
       <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="930">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#322#323#0" expanded="true" />
                 <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#1115#1116#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-                <element signature="e#1477#1478#0" expanded="true" />
-                <element signature="e#1511#1512#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,8 +39,8 @@
       <file leaf-file-name="BuddyStrings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/BuddyStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="705">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -64,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EscapeTheGhosts.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -72,8 +57,8 @@
       <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="45">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -382,12 +367,13 @@
       <workItem from="1530498863053" duration="9039000" />
       <workItem from="1530607457769" duration="3543000" />
       <workItem from="1530663952631" duration="599000" />
-      <workItem from="1530718537098" duration="12246000" />
+      <workItem from="1530718537098" duration="12441000" />
+      <workItem from="1531316598305" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38792000" />
+    <option name="totallyTimeSpent" value="39838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -395,7 +381,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -422,37 +407,38 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900944" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20902778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49930555" weight="0.32900944" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.32900944" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3298611" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900944" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20902778" />
+      <window_info id="Learn" order="7" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -859,44 +845,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="930">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-            <element signature="e#1477#1478#0" expanded="true" />
-            <element signature="e#1511#1512#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/BuddyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinaryNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinaryNode.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1497">
@@ -926,14 +892,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EscapeTheGhosts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

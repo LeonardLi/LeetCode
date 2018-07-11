@@ -19,11 +19,16 @@ public class BinaryTreeRightSideView {
     }
     public List<Integer> rightSideView(TreeNode root) {
         ArrayList<TreeNode> tree = new ArrayList<>();
+        tree.add(new TreeNode(0));
 
         TreeNode cur = root;
 
-        while(cu)
+
 
         return null;
+    }
+
+    private List<TreeNode> tranform(TreeNode root) {
+
     }
 }
