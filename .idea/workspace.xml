@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MinimumPathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,14 +54,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+            <state relative-caret-position="192">
+              <caret line="28" column="34" selection-start-line="21" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MinimumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EscapeTheGhosts.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MinimumPathSum.java" />
       </list>
     </option>
   </component>
@@ -368,12 +378,12 @@
       <workItem from="1530607457769" duration="3543000" />
       <workItem from="1530663952631" duration="599000" />
       <workItem from="1530718537098" duration="12441000" />
-      <workItem from="1531316598305" duration="2016000" />
+      <workItem from="1531316598305" duration="3286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41003000" />
+    <option name="totallyTimeSpent" value="42273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -389,10 +399,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49930555" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49930555" visible="true" weight="0.32900944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20902778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20902778" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Learn" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,13 +543,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ConditionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
@@ -898,11 +901,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BinaryTreeRightSideView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        <state relative-caret-position="192">
+          <caret line="28" column="34" selection-start-line="21" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
