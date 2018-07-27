@@ -39,6 +39,7 @@ public class MaximumProductWordLengths {
     }
 
     ///// fast way
+    ///// use 1 int space （32 bit）store the the letter in a word, use bit operation to accelarate
     public int maxProduct2(String[] words) {
         int n = words.length, max = 0;
         int[] values = new int[n];
