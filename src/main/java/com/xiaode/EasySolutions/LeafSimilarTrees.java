@@ -33,10 +33,10 @@ public class LeafSimilarTrees {
     }
 
     public Integer testOptional(TreeNode node ){
-        return Optional.ofNullable(node)
+        return (Integer) Optional.ofNullable(node)
                 .filter((n)->n.string.equals("test1"))
-                .map(TreeNode::getVal)
-                .orElse(null);
+                .map(TreeNode::returnNull)
+                .orElse(node.getVal());
     }
 
     public static void main(String[] args) {
