@@ -10,13 +10,20 @@ public class NextGreaterElementI {
      * Find all the next greater numbers for nums1's elements in the corresponding places of nums2.
      * The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. If it does not exist, output -1 for this number.
      */
-    public int[] nextGreaterElement(int[] findNums, int[] nums){
-        int [] result = new int[findNums.length];
-        for(int i = 0; i < findNums.length; i++){
+    public int[] nextGreaterElement(int[] nums1, int[] nums2){
+        int [] result = new int[nums1.length];
+        for(int i = 0; i < nums1.length; i++){
             result[i] = -1;
-            for(int j = i; j < nums.length; j++){
-                if (findNums[i] < nums[j]) {
-                    result[i] = nums[j];
+
+            boolean isTarget = false;
+            for(int j = 0; j < nums2.length; j++){
+                if (isTarget || nums1[i] == nums2[j]){
+                    isTarget = true;
+                } else {
+                    continue;
+                }
+                if (nums1[i] < nums2[j]) {
+                    result[i] = nums2[j];
                     break;
                 }
             }
