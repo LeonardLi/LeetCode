@@ -14,6 +14,8 @@ package com.xiaode.HardSolutions;
  * 'P' : Present.
  * A record is regarded as rewardable if it doesn't contain more than one 'A' (absent) or more than two continuous 'L' (late).
  */
+
+//TODO: DP
 public class StudentAttendanceRecordII {
     public int checkRecord(int n) {
         char[] dic = {'A','L','P'};
@@ -24,6 +26,8 @@ public class StudentAttendanceRecordII {
                 test +=dic[i];
             }
         }
+        return 0;
+        
     }
 
     private boolean checkIfAwarded(String s) {
