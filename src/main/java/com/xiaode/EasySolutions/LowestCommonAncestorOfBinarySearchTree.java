@@ -1,9 +1,5 @@
 package com.xiaode.EasySolutions;
 
-import java.nio.file.Path;
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by liyangde on Aug, 2018
  *
