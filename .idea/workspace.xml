@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/DegreeOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ImageSmoother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinimumIndexSumOfTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ConvertSortedArrayToBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MaximumProductOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RelativeRanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/RelativeRanks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RelativeRanks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RelativeRanks.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,30 +22,30 @@
     <session id="-677043640">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4868" />
+          <entry key="java" value="6327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4868" />
+          <entry key="JAVA" value="6327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -61,20 +58,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinimumIndexSumOfTwoLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="94" column="40" lean-forward="true" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+            <state relative-caret-position="1410">
+              <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ConvertSortedArrayToBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MaximumProductOfThreeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="138" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -114,9 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/BinaryGap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/SubdomainVisitCount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/NumberLinesWriteString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/TransposeMatrix.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ArrayPartitionI.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ListNode.java" />
@@ -165,6 +186,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ImageSmoother.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinimumIndexSumOfTwoLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ConvertSortedArrayToBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MaximumProductOfThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductSubarray.java" />
       </list>
     </option>
   </component>
@@ -197,7 +221,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,29 +261,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="xiaode" type="462c0819:PsiDirectoryNode" />
-              <item name="ADT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaode" type="462c0819:PsiDirectoryNode" />
-              <item name="EasySolutions" type="462c0819:PsiDirectoryNode" />
+              <item name="MediumSolutions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Rela&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.RelativeRanks&#10;MyS&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.myStack&#10;Next&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.NextGreaterElementI&#10;imp&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementstrStr&#10;Nth&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.NthDigit" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536014418713" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536035651701" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -279,7 +294,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PositionsOfLargeGroups">
+  <component name="RunManager" selected="Application.MaximumProductSubarray">
+    <configuration name="MaximumProductOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.MaximumProductOfThreeNumbers" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumProductSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.MaximumProductSubarray" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaode.MediumSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinimumIndexSumOfTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.MinimumIndexSumOfTwoLists" />
       <module name="LeetCode" />
@@ -294,36 +337,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSumIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.PathSumIII" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PositionsOfLargeGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.PositionsOfLargeGroups" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.PowerOfFour" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -371,19 +386,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PowerOfFour" />
-      <item itemvalue="Application.PathSumIII" />
       <item itemvalue="Application.UglyNumber" />
       <item itemvalue="Application.MinimumIndexSumOfTwoLists" />
       <item itemvalue="Application.PositionsOfLargeGroups" />
+      <item itemvalue="Application.MaximumProductOfThreeNumbers" />
+      <item itemvalue="Application.MaximumProductSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumProductSubarray" />
+        <item itemvalue="Application.MaximumProductOfThreeNumbers" />
         <item itemvalue="Application.PositionsOfLargeGroups" />
         <item itemvalue="Application.MinimumIndexSumOfTwoLists" />
         <item itemvalue="Application.UglyNumber" />
-        <item itemvalue="Application.PathSumIII" />
-        <item itemvalue="Application.PowerOfFour" />
       </list>
     </recent_temporary>
   </component>
@@ -417,18 +432,19 @@
       <workItem from="1535167943350" duration="260000" />
       <workItem from="1535816804565" duration="313000" />
       <workItem from="1535817305781" duration="2386000" />
-      <workItem from="1535988955265" duration="14524000" />
+      <workItem from="1535988955265" duration="15958000" />
+      <workItem from="1536032402267" duration="3152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153016000" />
+    <option name="totallyTimeSpent" value="157602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19222577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1943557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,11 +455,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968536" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32780084" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39646018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39646018" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" weight="0.21504425" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" visible="true" weight="0.21504425" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026042" side_tool="true" weight="0.21560283" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -679,10 +695,10 @@
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java</url>
-          <line>34</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductSubarray.java</url>
+          <line>23</line>
           <properties />
-          <option name="timeStamp" value="94" />
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -691,27 +707,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ProjectionArea3DShapes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="37" column="42" selection-start-line="27" selection-start-column="4" selection-end-line="55" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ToLowerCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/NaryTreePostorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -883,13 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="145" selection-start-line="145" selection-end-line="145" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/NumberOfBoomerangs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1026,10 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="624" column="12" selection-start-line="624" selection-start-column="12" selection-end-line="624" selection-end-column="12" />
-          <folding>
-            <element signature="e#42126#42127#0" expanded="true" />
-            <element signature="e#42190#42191#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,18 +1033,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MinimumIndexSumOfTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="94" column="40" lean-forward="true" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+        <state relative-caret-position="1410">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PositionsOfLargeGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        <state relative-caret-position="315">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ConvertSortedArrayToBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MaximumProductOfThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
