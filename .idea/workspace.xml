@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/InOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/InOrder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,12 +46,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="29831" />
+          <entry key="java" value="30080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29831" />
+          <entry key="JAVA" value="30080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -146,8 +146,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/InOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="525">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -215,7 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/SetMismatch.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PascalsTriangleII.java" />
@@ -266,6 +265,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/PreOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/PostOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/InOrder.java" />
       </list>
     </option>
   </component>
@@ -370,7 +370,7 @@
     <property name="SearchEverywhereHistoryKey" value="Max&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/MaximumDepthOfNaryTree.java&#10;PathSum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumIII.java&#10;Bin&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;BinaryP&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;Path&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Pathsum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSum.java&#10;path&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumII.java&#10;PathSumIII&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Low&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LowestCommonAncestorOfBinarySearchTree&#10;Lowest&#9;null&#9;null&#10;Nary&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.NaryTreePostorderTraversal&#10;Pa&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PascalsTriangle.java&#10;Rela&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.RelativeRanks&#10;MyS&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.myStack&#10;Next&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.NextGreaterElementI&#10;imp&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementstrStr&#10;Nth&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.NthDigit" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536808445976" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536816280131" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -541,18 +541,18 @@
       <workItem from="1536602729628" duration="11664000" />
       <workItem from="1536641750293" duration="471000" />
       <workItem from="1536693057286" duration="159000" />
-      <workItem from="1536713590143" duration="18044000" />
+      <workItem from="1536713590143" duration="18594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247596000" />
+    <option name="totallyTimeSpent" value="248146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47826087" visible="true" weight="0.12673056" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47826087" visible="true" weight="0.12673056" />
       <window_info id="Structure" order="1" sideWeight="0.5217391" side_tool="true" visible="true" weight="0.12673056" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,7 +567,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" visible="true" weight="0.3283186" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49739584" visible="true" weight="0.3283186" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026042" side_tool="true" weight="0.21560283" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -1286,8 +1286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/InOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="525">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
         </state>
       </provider>
     </entry>

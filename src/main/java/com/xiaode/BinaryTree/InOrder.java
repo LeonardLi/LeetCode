@@ -34,5 +34,7 @@ public class InOrder {
             res.add(current.val);
             current = current.right;
         }
+
+        return res;
     }
 }
