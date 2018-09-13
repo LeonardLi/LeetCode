@@ -1,7 +1,9 @@
 package com.xiaode.MediumSolutions;
 
 import java.util.Deque;
+import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.Map;
 
 /**
  * Created by liyangde on Sep, 2018
@@ -41,23 +43,56 @@ public class SmallestSubtreeWithAllTheDeepestNodes {
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
         Deque<TreeNode> current = new LinkedList<>();
         Deque<TreeNode> next = new LinkedList<>();
-        Deque<TreeNode> pre = null;
+        Deque<TreeNode> store = new LinkedList<>();
+
+
         current.push(root);
-
+        int level = 0;
         while(current.size() != 0){
-
-            while (current.size() != 0){
+            while (current.size() != 0) {
                 TreeNode node = current.pop();
-                if (node.right!= null) next.push(node.right);
-                if (node.left!= null) next.push(node.left);
-            }
-
-            if (next.size() == 0) {
+                if (node.right != null) next.push(node.right);
+                if (node.left != null) next.push(node.left);
+                if (node.left != null || node.right!= null) store.push(node);
 
             }
             current = next;
             next = new LinkedList<>();
         }
-        return pre.poll();
+        return store.pop();
+    }
+
+    //////////////////////
+
+    Map<TreeNode, Integer> depth;
+    int max_depth;
+    public TreeNode subtreeWithAllDeepest2(TreeNode root) {
+        depth = new HashMap();
+        depth.put(null, -1);
+        dfs(root, null);
+        max_depth = -1;
+        for (Integer d: depth.values())
+            max_depth = Math.max(max_depth, d);
+
+        return answer(root);
+    }
+
+    public void dfs(TreeNode node, TreeNode parent) {
+        if (node != null) {
+            depth.put(node, depth.get(parent) + 1);
+            dfs(node.left, node);
+            dfs(node.right, node);
+        }
+    }
+
+    public TreeNode answer(TreeNode node) {
+        if (node == null || depth.get(node) == max_depth)
+            return node;
+        TreeNode L = answer(node.left),
+                R = answer(node.right);
+        if (L != null && R != null) return node;
+        if (L != null) return L;
+        if (R != null) return R;
+        return null;
     }
 }
