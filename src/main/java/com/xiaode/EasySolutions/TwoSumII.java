@@ -1,5 +1,8 @@
 package com.xiaode.EasySolutions;
 
+import java.util.HashMap;
+import java.util.HashSet;
+
 /**
  * Created by leonard on 27/02/2017.
  */
@@ -12,22 +15,39 @@ public class TwoSumII {
  * Please note that your returned answers (both index1 and index2) are not zero-based.
  * You may assume that each input would have exactly one solution and you may not use the same element twice.
  */
-public int[] twoSum(int[] numbers, int target){
-    int head =0 ;
-    int tail = numbers.length-1;
-    int[] result = new int[2];
-    while(head<tail){
-        long temp = numbers[head]+numbers[tail];
-        if(temp < target) head++;
-        if(temp> target) tail++;
-        if(temp == target ) {
-            result[0] = head+1;
-            result[1] = tail+1;
-            break;
+
+    //faster
+    public int[] twoSum(int[] numbers, int target){
+        int head = 0;
+        int tail = numbers.length - 1;
+        int[] result = new int[2];
+
+        while(head<tail){
+            long temp = numbers[head] + numbers[tail];
+            if(temp < target) head++;
+            if(temp > target) tail--;
+            if(temp == target ) {
+                result[0] = head+1;
+                result[1] = tail+1;
+                break;
+            }
+
         }
+        return result;
 
     }
-    return result;
 
-}
+    public int[] twoSum2(int[] numbers, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] res = new int[2];
+        for(int i = 0; i < numbers.length - 2; i++) {
+            if (map.containsKey(target - numbers[i])){
+                res[0] = map.get(target - numbers[i]);
+                res[1] = i;
+            }
+            map.put(numbers[i], i);
+
+        }
+        return res;
+    }
 }
