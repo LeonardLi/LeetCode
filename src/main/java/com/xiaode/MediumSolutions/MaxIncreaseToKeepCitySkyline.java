@@ -41,6 +41,40 @@ package com.xiaode.MediumSolutions;
 public class MaxIncreaseToKeepCitySkyline {
 
     public int maxIncreaseKeepingSkyline(int[][] grid) {
-        return 0;
+        int[][] newGrid = new int[grid.length][grid.length];
+        int [] colMax = new int[grid[0].length];
+        int [] rowMax = new int[grid.length];
+        int sum = 0;
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                rowMax[i] = Math.max(rowMax[i], grid[i][j]);
+            }
+        }
+
+        for (int i = 0; i < grid[0].length; i++) {
+            for (int j = 0; j < grid.length; j++) {
+                colMax[i] = Math.max(colMax[i],grid[j][i]);
+            }
+        }
+
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j < grid[0].length; j++) {
+                newGrid[i][j] = Math.min(rowMax[i], colMax[j]);
+                sum += newGrid[i][j] - grid[i][j];
+            }
+        }
+
+        return sum;
+    }
+
+    public static void main(String[] agrs) {
+        MaxIncreaseToKeepCitySkyline maxIncreaseToKeepCitySkyline = new MaxIncreaseToKeepCitySkyline();
+        int[][] test = new int[][] {
+                {3,0,8,4},
+                {2,4,5,7},
+                {9,2,6,3},
+                {0,3,1,0}
+        };
+        maxIncreaseToKeepCitySkyline.maxIncreaseKeepingSkyline(test);
     }
 }
