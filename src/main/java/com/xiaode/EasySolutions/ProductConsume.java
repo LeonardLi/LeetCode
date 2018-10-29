@@ -35,7 +35,7 @@ class P {
                     lock.wait();
                 }
                 String value = System.currentTimeMillis() + "_" + System.nanoTime();
-                System.out.println("P: "+value);
+                System.out.println("P:"+value);
                 ValueObject.value = value;
                 lock.notify();
             }
