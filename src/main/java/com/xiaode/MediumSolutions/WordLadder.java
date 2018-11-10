@@ -53,6 +53,7 @@ public class WordLadder {
         set.add(beginWord);
         return helper(beginWord, endWord, set, wordList, 1);
     }
+
     private int helper(String beginWord, String endWord, Set<String> visited,List<String> wordList, int path){
         if (checkDifference(beginWord, endWord)) {
             if (shortest == 0) {

@@ -1,6 +1,7 @@
 package com.xiaode.EasySolutions;
 
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -51,5 +52,12 @@ public class AliceAndBob {
     public static void main(String[] args) {
         AliceAndBob aliceAndBob = new AliceAndBob();
         System.out.println(aliceAndBob.playGame(new HashSet<>(Arrays.asList(5,6,7))));
+    }
+
+    public void printArray(int[] nums) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i : nums) {
+            map.put(i, map.getOrDefault(i,0)+1);
+        }
     }
 }

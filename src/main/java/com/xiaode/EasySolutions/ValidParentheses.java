@@ -15,48 +15,28 @@ public class ValidParentheses {
      * @return
      */
     public static boolean isValid(String s){
-        Stack<Character> stack = new Stack<>();
-        int index = 0;
-        if (s.length() <=1 ) return false;
-        stack.push(s.charAt(index));
-        while (index < s.length()){
-            index++;
+        Stack<Character> store = new Stack<>();
+        if(s == null || s.length() % 2 != 0) return false;
 
-            if(index >= s.length()) {
-                if(stack.size() !=0 ){
-                    return false;
-                }else{
-                    return true;
-                }
+        for (int i = 0; i < s.length(); i++) {
+            if(s.charAt(i) == ')'){
+                if (store.isEmpty() || store.peek() != '(') return false;
+                else store.pop();
+                continue;
             }
-
-            char temp = 0;
-            if(stack.size()!= 0){
-                if (')' == s.charAt(index)) {
-                    temp = stack.pop();
-                    if (! ('(' == temp)){
-                        return  false;
-                    }
-                    continue;
-                }
-                if (']' == s.charAt(index)){
-                    temp = stack.pop();
-                    if (! ('[' == temp)){
-                        return  false;
-                    }
-                    continue;
-                }
-                if ('}' == s.charAt(index)){
-                    temp = stack.pop();
-                    if (!('{' == temp)){
-                        return  false;
-                    }
-                    continue;
-                }
+            if(s.charAt(i) == ']'){
+                if (store.isEmpty() || store.peek() != '[') return false;
+                else store.pop();
+                continue;
             }
-            stack.push(s.charAt(index));
+            if(s.charAt(i) == '}'){
+                if (store.isEmpty() || store.peek() != '{') return false;
+                else store.pop();
+                continue;
+            }
+            store.push(s.charAt(i));
         }
-        return true;
+        return store.isEmpty();
     }
 
 }
