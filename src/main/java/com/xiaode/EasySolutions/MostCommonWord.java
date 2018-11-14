@@ -1,6 +1,8 @@
 package com.xiaode.EasySolutions;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -39,54 +41,30 @@ import java.util.Map;
 public class MostCommonWord {
 
     public String mostCommonWord(String paragraph, String[] banned) {
-        HashMap<String, Integer> count = new HashMap<>();
-        paragraph += '.';
-        String word = "";
-        String punc = "!?',;.";
-        for (String ban : banned) {
-            count.put(ban, -1);
-        }
-        for (int i = 0; i < paragraph.length(); i++) {
-            if (paragraph.charAt(i) != ' '){
-                if (punc.contains(String.valueOf(paragraph.charAt(i)))) {
-                    if (count.containsKey(word) && count.get(word) == -1) {
-                        word = "";
-                    } else if (!word.equals("")){
-                        count.put(word, count.getOrDefault(word, 0) + 1);
-                        word = "";
-                    }
-                    continue;
-                } else
-                    word = word + Character.toLowerCase(paragraph.charAt(i));
-            } else if (!word.equals("")) {
-                if (count.containsKey(word) && count.get(word) == -1) {
-                    word = "";
-                    continue;
-                } else {
-                    count.put(word, count.getOrDefault(word, 0) + 1);
-                    word = "";
-                }
-            } else{
-
+        String[] splitArr = paragraph.replaceAll("[!?',;.]"," ").toLowerCase().split(" ");
+        HashMap<String, Integer> map = new HashMap<>();
+        List<String> bannedList = Arrays.asList(banned);
+        for(String str: splitArr) {
+            if (str.equals("")) continue;
+            if(!bannedList.contains(str.trim())) {
+                map.put(str.trim(), map.getOrDefault(str.trim(), 0) + 1);
             }
         }
 
-        int max = Integer.MIN_VALUE;
-        for(Map.Entry<String, Integer> entry : count.entrySet()) {
-            if (entry.getValue() > max) {
-                max = entry.getValue();
-                word = entry.getKey();
-            }
+        int currentMax = 0;
+        String res = "";
+        for(String key: map.keySet()) {
+            res = map.get(key) >  currentMax ? key : res;
+            currentMax = map.get(key);
         }
-
-        return paragraph.length() == 0 ? "" : word;
+        return res;
     }
 
 
 
     public static void main(String[] args) {
         MostCommonWord mostCommonWord = new MostCommonWord();
-        mostCommonWord.mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", new String[]{"hit"});
+        mostCommonWord.mostCommonWord("Bob. hIt, baLl", new String[]{"bob", "hit"});
 
     }
 }
