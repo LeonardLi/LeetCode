@@ -26,7 +26,7 @@ public class MergeIntervals {
 
     public List<Interval> merge(List<Interval> intervals) {
         if (intervals.size() <= 1) return intervals;
-        intervals.sort((i1, i2) -> Integer.compare(i1.start, i2.start));
+        intervals.sort(Comparator.comparingInt(i -> i.start));
 
         List<Interval> result = new LinkedList<>();
         int start = intervals.get(0).start;

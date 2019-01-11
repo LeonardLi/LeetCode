@@ -1,6 +1,7 @@
 package com.xiaode.Sort;
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
  * Created by leonard on 24/03/2017.
@@ -40,21 +41,79 @@ public class Sort {
         return i+1;
     }
 
-    public static void mergeSort(int[] data){}
+    // mergeSort
+    public static void mergeSort(int[] data){
+        if (data.length < 2) return;
+        int mid = data.length / 2;
+        int [] l = new int[mid];
+        int [] r = new int[data.length - mid];
 
-    public static void bubleSort(int[] data){}
+        for (int i = 0; i < mid; i++) {
+            l[i] = data[i];
+        }
+        for (int i = mid; i < data.length; i++) {
+            r[i-mid] = data[i];
+        }
+        mergeSort(l);
+        mergeSort(r);
+        merge(data, l, r);
+    }
 
-    public static void insertSort(int[] data){}
+    private static void merge(int []data, int[] l , int[] r) {
+        int i = 0, j = 0, k = 0;
+        while (i < l.length && j < r.length) {
+            if (l[i] <= r[j]) {
+                data[k++] = l[i++];
+            } else {
+                data[k++] = r[j++];
+            }
+        }
+
+        while (i < l.length) {
+            data[k++] = l[i++];
+        }
+        while (j < r.length) {
+            data[k++] = r[j++];
+        }
+    }
+
+
+    // O(n2)
+    public static void bubleSort(int[] data){
+        int n = data.length;
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = 0; j < n - i - 1; j++) {
+                if (data[j] > data[j+1]) {
+                    int temp = data[j];
+                    data[j] = data[j+1];
+                    data[j+1] = temp;
+                }
+
+            }
+        }
+    }
+
+    public static void insertSort(int[] data){
+        int n = data.length;
+
+    }
 
     public static void selectSort(int[] data){}
 
+
     public static void shellSort(int[] data){}
+
+    public static void flipSort(){}
+
+    public static void radixSort(){}
+
+    public static void BucketSort(){}
 
 
     public static void main(String[] args){
       int[] test = new int[]{2,6,1,3,4,9,8,0,5,7};
 
-      Sort.quickSort(test);
+      Sort.bubleSort(test);
       System.out.println(Arrays.toString(test));
 
     }

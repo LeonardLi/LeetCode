@@ -2,6 +2,7 @@ package com.xiaode.MediumSolutions;
 
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Random;
 
 /**
  * Created by liyangde on Sep, 2018
@@ -27,17 +28,24 @@ public class KthLargestElementInArray {
 
         if (nums == null) return 0;
         if (nums.length == 1) return nums[0];
-        Integer[] newNums = Arrays.stream(nums).boxed().toArray(Integer[]::new);
-        Arrays.sort(newNums, Collections.reverseOrder());
-        int temp = newNums[0];
-        int count = 1;
-        for (int i = 1; i < newNums.length; i++ ){
-            if (temp >= newNums[i]){
-                count++;
-                temp = newNums[i];
-                if (count == k) break;
-            }
-        }
-        return temp;
+        final int N = nums.length;
+        Arrays.sort(nums);
+        return nums[N-k];
+
+//        Integer[] newNums = Arrays.stream(nums).boxed().toArray(Integer[]::new);
+//        Arrays.sort(newNums, Collections.reverseOrder());
+//        int temp = newNums[0];
+//        int count = 1;
+//        for (int i = 1; i < newNums.length; i++ ){
+//            if (temp >= newNums[i]){
+//                count++;
+//                temp = newNums[i];
+//                if (count == k) break;
+//            }
+//        }
+//        return temp;
     }
+
+
+    //There is a guaranteed O(n) algorithm called Blum-Floyd-Pratt-Rivest-Tarjan
 }

@@ -5,139 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_16_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ArrayDoubledPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LargestTimeforGivenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/VerifyingAlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LargestComponentSizebyCommonFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LongestSubstringwithAtMostKDistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MergekSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddBoldTaginString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CompareVersionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CouplesHoldingHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteColumnstoMakeSortedII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GameofLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumSizeSubarraySumEqualsk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/OneEditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/RevealCardsInIncreasingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SuperUglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UglyNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/google/ArraySplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/google/HousesAndStores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/google/TreeAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BSTIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/PeekingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ZigzagIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PowerfulIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FindKthSmallestPairDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MaximumVacationDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MinimumWindowSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/NumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RangeModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RedundantConnectionII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RobotRoomCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ShortestDistanceFromAllBuildings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ShortestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/WordSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AndroidUnlockPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DiagonalTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindKPairsWithSmallestSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FlipBinaryTreeToMatchPreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FractionAdditionandSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HouseRobberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InorderSuccessorInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsertIntoCyclicSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaxConsecutiveOnesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PacificAtlanticWaterFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SentenceScreenFitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SortTransformedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UTF8Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ValidSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ZeroOneMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/KthLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KthLargestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KthLargestElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTest$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreadTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/InOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/InOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/LevelOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/PostOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/PostOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/PreOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/PreOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/BinaryTree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Coroutine/QuasarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Coroutine/QuasarTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AddBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AssignCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AssignCookies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AtomicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/AtomicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/BinaryTreeTilt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/BinaryTreeTilt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ConrainsDuplicateII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ConrainsDuplicateII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ConstructRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ConstructRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DealThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DealThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DetectCapital2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DetectCapital2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DiameterOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/DiameterOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/EasyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/EasyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FindDisappearedNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FindDisappearedNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FindPivotIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FindPivotIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/FizzBuzz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/HamingDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/HamingDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ImplementstrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ImplementstrStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/IntersectionOfTwoLinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/IntersectionOfTwoLinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/IslandPerimeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/IslandPerimeter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/KeyboardRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/KeyboardRow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LargestNumberAtLeastTwiceOfOthers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LargestNumberAtLeastTwiceOfOthers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LengthofLastWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LengthofLastWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ListNodeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ListNodeA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LockPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LockPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LockService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LockService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/LongestCommonPrefix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MaxConsecutiveOnes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MaxConsecutiveOnes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MaximumSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MaximumSubarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeTwoSortedLists$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeTwoSortedLists$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinCostClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinCostClimbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinimumMoves.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinimumMoves.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinumumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MinumumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalendarII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalendarII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalenderI$Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalenderI$Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalenderI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/MyCalenderI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NextGreaterElementI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NextGreaterElementI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NthDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NthDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NumberComplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/NumberComplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/P.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/P.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PalindromeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PalindromeLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/PerfectNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ProductConsume.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ProductConsume.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Provider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RegexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RegexTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RelativeRanks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RelativeRanks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RemoveDuplicatesFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RemoveDuplicatesFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RemoveLinkedListElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/RemoveLinkedListElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Services.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/Services.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/StreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ThreadC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ThreadC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ThreadP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ThreadP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/TwoSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/TwoSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ValueObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/ValueObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/WordPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/WordPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/XPathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/XPathTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EasySolutions/myThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/MyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/SingletonExample$Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/SingletonExample$Single.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/SingletonExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/SingletonExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/UseConditionWaitNotifyError.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/EffectiveJava/UseConditionWaitNotifyError.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ConditionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ConditionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/LockService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/LockService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MedianOfTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MedianOfTwoSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MyObject$MyObjectHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MyObject$MyObjectHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/MyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/SingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ThreadA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ThreadB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/ThreadB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/TimerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/TimerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/myTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/HardSolutions/myTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/ListParamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/ListParamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Main2$UnilateralLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Main2$UnilateralLine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/BattleshipsInABoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/BattleshipsInABoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/ContainerWithMostWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/CountingBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/CountingBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/FindLargestValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/FindLargestValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/PourWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/PourWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/StringtoInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/StringtoInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/Sum3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/ZigZagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/MediumSolutions/ZigZagConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Sort/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Sort/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaode/Sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaode/Sort/Sort.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -175,55 +90,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddBoldTaginString.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FractionAdditionandSubtraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="735">
+              <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GameofLife.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FileSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/OneEditDistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="873">
-              <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ValidNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Double.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="531" column="36" selection-start-line="531" selection-start-column="15" selection-end-line="531" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="1223">
+              <caret line="101" column="42" selection-start-line="44" selection-end-line="121" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2091#2092#0" expanded="true" />
+                <element signature="e#2124#2125#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="1035">
+              <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -240,26 +124,69 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state relative-caret-position="479">
+              <caret line="109" column="33" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#qsort#0;class#Sort#0" />
+                <element signature="method#mergeSort#0;class#Sort#0" />
+                <element signature="method#merge#0;class#Sort#0" />
+                <element signature="method#bubleSort#0;class#Sort#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LongestSubstringwithAtMostKDistinctCharacters.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/JewelsAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RobotRoomCleaner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="341">
+              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ImageOverlap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CourseSchedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FlattenBinaryTreeToLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -297,10 +224,15 @@
       <find>reverse Li</find>
       <find>reverse</find>
       <find>longestPa</find>
+      <find>Intersection</find>
+      <find>Evaluate</find>
+      <find>ValidSquare</find>
+      <find>Brack</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
       <dir>$PROJECT_DIR$/src/main/java</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions</dir>
       <dir>$PROJECT_DIR$/src/main/java/com/xiaode</dir>
     </dirStrings>
   </component>
@@ -320,57 +252,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ClosestBinarySearchTreeValue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LongPressedName.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PaintHouse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MeetingRooms.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ShortestCompletingWord.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/IPtoCIDR.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VerifyPreorderSequenceinBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindAndReplaceInString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/StrobogrammaticNumberII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/StrobogrammaticNumberIII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CombinationSumII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CombinationSumIII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CombinationSumIV.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddTwoNumbersII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ContiguousArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindMinimuminRotatedSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidMountainArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/DeleteColumnstoMakeSorted.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/DIStringMatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FindtheShortestSuperstring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReconstructItinerary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KeysandRooms.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EvaluateDivision.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NumberofConnectedComponentsinUndirectedGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CouplesHoldingHands.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MergekSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UglyNumberII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SuperUglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumSizeSubarraySumEqualsk.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CompareVersionNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LargestTimeforGivenDigits.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LargestComponentSizebyCommonFactor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/UnionFind.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/google/HousesAndStores.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/google/TreeAncestor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/google/ArraySplit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/VerifyingAlienDictionary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ArrayDoubledPairs.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteColumnstoMakeSortedII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/KthLargest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaxConsecutiveOnesII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ShortestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FirstMissingPositive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsertIntoCyclicSortedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InorderSuccessorInBST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RedundantConnectionII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/WordSquares.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AndroidUnlockPatterns.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MinimumWindowSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KthLargestElementInArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ShortestDistanceFromAllBuildings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FindKthSmallestPairDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindKPairsWithSmallestSums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RangeModule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/InsertInterval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SortTransformedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DiagonalTraverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PacificAtlanticWaterFlow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EvaluateReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SentenceScreenFitting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MaximumVacationDays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HouseRobberII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/PeekingIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinarySearchTreeIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BSTIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ZigzagIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DesignTicTacToe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TicTacToe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/NumMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UTF8Validation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyCircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DailyTemperatures.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CloneGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ZeroOneMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/ADT/Trie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReplaceWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PowerfulIntegers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FlipBinaryTreeToMatchPreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ValidSquare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FractionAdditionandSubtraction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/DesignInMemoryFileSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FileSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RobotRoomCleaner.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LongestSubstringwithAtMostKDistinctCharacters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddBoldTaginString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GameofLife.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/OneEditDistance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/JewelsAndStones.java" />
       </list>
     </option>
   </component>
@@ -397,10 +329,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="402" />
-    <option name="y" value="23" />
-    <option name="width" value="1518" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="694" />
+    <option name="y" value="27" />
+    <option name="width" value="1240" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
@@ -408,8 +340,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -447,13 +377,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ugly&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.UglyNumber&#10;Trie&#9;PSI&#9;JAVA://com.xiaode.ADT.Trie&#10;Combin&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.CombinationSum&#10;StroBo&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.StrobogrammaticNumber&#10;Interval&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.MergeIntervals.Interval&#10;Most&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.MostCommonWord&#10;Sen&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/SentenceSimilarity.java&#10;ValidWord&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidWordSquare&#10;ValidPh&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidPhoneNumbers&#10;flood&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.FloodFill&#10;Long&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/LongestIncreasingSubsequence.java&#10;Palindr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LongestPalindrome&#10;pa&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.PalindromicSubstrings&#10;pali&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PalindromeLinkedList&#10;TOp&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Top&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Alice&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/AliceAndBob.java&#10;happy&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/HappyNumber.java&#10;validpare&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ValidParentheses.java&#10;stack&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementQueueUsingStacks&#10;Word&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/WordLadder.java&#10;longest increasi&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.LongestIncreasingSubsequence&#10;Happy&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HappyNumber&#10;Quad&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ConstructQuadTree.java&#10;Image&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.RotateImage&#10;image&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImageSmoother&#10;Thread&#9;PSI&#9;JAVA://com.xiaode.HardSolutions.ThreadB&#10;interval&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java&#10;InsertInterval&#9;PSI&#9;JAVA://javax.swing.ListSelectionModel#insertIndexInterval&#10;strstr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementstrStr#strStr&#10;Paren&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidParentheses&#10;Parent&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.GenerateParentheses&#10;TopK&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.TopKFrequentElements&#10;Prime&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/CountPrimes.java&#10;Tenth&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TenthLine&#10;two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSum&#10;House&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HouseRobber&#10;Ham&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HamingDistance&#10;Two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSumII&#10;Max&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/MaximumDepthOfNaryTree.java&#10;Smal&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/SmallestSubtreeWithAllTheDeepestNodes.java&#10;PathSum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumIII.java&#10;Bin&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;BinaryP&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;Path&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Pathsum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSum.java&#10;path&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumII.java&#10;PathSumIII&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Low&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LowestCommonAncestorOfBinarySearchTree&#10;Lowest&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545343925417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547069414340" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -472,9 +404,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddBoldTaginString">
-    <configuration name="AddBoldTaginString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.AddBoldTaginString" />
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="DailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.DailyTemperatures" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -487,36 +419,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDoubledPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.EasySolutions.ArrayDoubledPairs" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiaode.EasySolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteColumnstoMakeSortedII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.DeleteColumnstoMakeSortedII" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xiaode.MediumSolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubstringwithAtMostKDistinctCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaode.HardSolutions.LongestSubstringwithAtMostKDistinctCharacters" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.HardSolutions.MinimumWindowSubstring" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -536,6 +440,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xiaode.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelSpellchecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.VowelSpellchecker" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaode.MediumSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroOneMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaode.MediumSolutions.ZeroOneMatrix" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaode.MediumSolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -564,19 +496,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayDoubledPairs" />
-      <item itemvalue="Application.DeleteColumnstoMakeSortedII" />
+      <item itemvalue="Application.MinimumWindowSubstring" />
+      <item itemvalue="Application.VowelSpellchecker" />
+      <item itemvalue="Application.DailyTemperatures" />
+      <item itemvalue="Application.ZeroOneMatrix" />
       <item itemvalue="Application.Sort" />
-      <item itemvalue="Application.LongestSubstringwithAtMostKDistinctCharacters" />
-      <item itemvalue="Application.AddBoldTaginString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddBoldTaginString" />
-        <item itemvalue="Application.LongestSubstringwithAtMostKDistinctCharacters" />
         <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.DeleteColumnstoMakeSortedII" />
-        <item itemvalue="Application.ArrayDoubledPairs" />
+        <item itemvalue="Application.ZeroOneMatrix" />
+        <item itemvalue="Application.DailyTemperatures" />
+        <item itemvalue="Application.VowelSpellchecker" />
+        <item itemvalue="Application.MinimumWindowSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -683,12 +615,17 @@
       <workItem from="1543983168616" duration="1721000" />
       <workItem from="1544321684145" duration="5001000" />
       <workItem from="1544928663624" duration="9188000" />
-      <workItem from="1545330363456" duration="2842000" />
+      <workItem from="1545330363456" duration="3875000" />
+      <workItem from="1545429621839" duration="16952000" />
+      <workItem from="1546038874621" duration="15581000" />
+      <workItem from="1546200803329" duration="5519000" />
+      <workItem from="1546384518185" duration="7591000" />
+      <workItem from="1546743247365" duration="10834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539452000" />
+    <option name="totallyTimeSpent" value="596962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -700,9 +637,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="402" y="23" width="1518" height="1177" extended-state="0" />
+    <frame x="694" y="27" width="1240" height="1177" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.3394309" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.21869783" />
       <window_info id="Structure" order="1" sideWeight="0.5236593" side_tool="true" weight="0.24365482" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -712,13 +649,13 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52903223" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4970588" weight="0.56682026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3345622" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4970588" weight="0.56497693" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3120482" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49429658" weight="0.1840708" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029412" side_tool="true" weight="0.62547773" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49267194" weight="0.2516129" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5073281" side_tool="true" weight="0.18248849" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49930555" weight="0.321659" />
@@ -737,7 +674,7 @@
       <window_info anchor="right" id="Maven" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.27720588" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.34578544" />
       <window_info id="Structure" order="1" sideWeight="0.5236593" side_tool="true" weight="0.24365482" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -747,17 +684,18 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3935484" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4970588" weight="0.41198155" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52903223" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4970588" weight="0.56682026" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3120482" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49429658" weight="0.26543778" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029412" side_tool="true" weight="0.62547773" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49267194" weight="0.2516129" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5073281" side_tool="true" weight="0.18248849" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49930555" weight="0.3235023" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49930555" weight="0.321659" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32935324" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -765,9 +703,10 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32941177" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32997844" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1456,7 +1395,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java</url>
-          <line>23</line>
+          <line>24</line>
           <properties />
           <option name="timeStamp" value="256" />
         </line-breakpoint>
@@ -1471,6 +1410,42 @@
           <line>10</line>
           <properties />
           <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MinimumWindowSubstring.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DailyTemperatures.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LongestHarmoniousSubsequence.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="267" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1490,401 +1465,413 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidMountainArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PacificAtlanticWaterFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/DeleteColumnstoMakeSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/DIStringMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FindtheShortestSuperstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReconstructItinerary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KeysandRooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="65" column="12" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
+        <state relative-caret-position="555">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="75" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EvaluateDivision.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/EvaluateReversePolishNotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="75" selection-start-line="29" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NumberofConnectedComponentsinUndirectedGraph.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DecodeWays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="780">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CouplesHoldingHands.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="480">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MergekSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/MaximumSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SuperUglyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SentenceScreenFitting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="73" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
+        <state relative-caret-position="304">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumProductWordLengths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestPalindromicSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VowelSpellchecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="469">
+          <caret line="116" column="25" selection-start-line="116" selection-start-column="25" selection-end-line="116" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/UglyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/WordSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UglyNumberII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/MaximumSizeSubarraySumEqualsk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="248">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CompareVersionNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MaximumVacationDays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="290">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LongestPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HouseRobberIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="315">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LargestTimeforGivenDigits.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/HouseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LargestComponentSizebyCommonFactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/google/TreeAncestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/google/ArraySplit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/google/HousesAndStores.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/VerifyingAlienDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ArrayDoubledPairs.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HouseRobberII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/PeekingIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BSTIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ZigzagIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="5" selection-start-line="36" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/VerifyPreorderSequenceinBinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TicTacToe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="705">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/NumMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/RevealCardsInIncreasingOrder.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        <state relative-caret-position="149">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteColumnstoMakeSortedII.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/UTF8Validation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="390">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="56" column="48" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2306#2307#0" expanded="true" />
+            <element signature="e#2343#2344#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PerfectSquares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/KthLargest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DailyTemperatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CloneGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="e#2650#2651#0" expanded="true" />
+            <element signature="e#2684#2685#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyHashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ZeroOneMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20130">
-          <caret line="1401" column="19" selection-start-line="1401" selection-start-column="19" selection-end-line="1401" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/ShortestPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="720">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="1050">
+          <caret line="85" column="6" selection-start-line="85" selection-start-column="6" selection-end-line="85" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
+          <folding>
+            <element signature="e#6627#6628#0" expanded="true" />
+            <element signature="e#6668#6669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReplaceWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/BinaryTree/PreOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/PowerfulIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/google/TreeAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FlipBinaryTreeToMatchPreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/google/HousesAndStores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/LongestHarmoniousSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPerfectSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ValidSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FractionAdditionandSubtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="85" selection-start-line="49" selection-start-column="85" selection-end-line="49" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1223">
+          <caret line="101" column="42" selection-start-line="44" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2091#2092#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4139">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="49" lean-forward="true" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CourseSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FlattenBinaryTreeToLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        <state relative-caret-position="479">
+          <caret line="109" column="33" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#qsort#0;class#Sort#0" />
+            <element signature="method#mergeSort#0;class#Sort#0" />
+            <element signature="method#merge#0;class#Sort#0" />
+            <element signature="method#bubleSort#0;class#Sort#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/LongestSubstringwithAtMostKDistinctCharacters.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="-973">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/MyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ImageOverlap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="381">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AddBoldTaginString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/JewelsAndStones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GameofLife.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/RobotRoomCleaner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        <state relative-caret-position="341">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/EasySolutions/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="531" column="36" selection-start-line="531" selection-start-column="15" selection-end-line="531" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/OneEditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="873">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ValidNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
