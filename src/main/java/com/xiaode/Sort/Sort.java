@@ -96,14 +96,129 @@ public class Sort {
     public static void insertSort(int[] data){
         int n = data.length;
 
+        for (int i=1; i<n; ++i)
+        {
+            int key = data[i];
+            int j = i-1;
+
+            /* Move elements of arr[0..i-1], that are
+               greater than key, to one position ahead
+               of their current position */
+            while (j>=0 && data[j] > key)
+            {
+                data[j+1] = data[j];
+                j = j-1;
+            }
+            data[j+1] = key;
+        }
     }
 
-    public static void selectSort(int[] data){}
+    public static void selectSort(int[] data){
+        int n = data.length;
+
+        // One by one move boundary of unsorted subarray
+        for (int i = 0; i < n-1; i++)
+        {
+            // Find the minimum element in unsorted array
+            int min_idx = i;
+            for (int j = i+1; j < n; j++)
+                if (data[j] < data[min_idx])
+                    min_idx = j;
+
+            // Swap the found minimum element with the first
+            // element
+            int temp = data[min_idx];
+            data[min_idx] = data[i];
+            data[i] = temp;
+        }
+    }
 
 
-    public static void shellSort(int[] data){}
+    public static void shellSort(int[] data){
+        int n = data.length;
 
-    public static void flipSort(){}
+        // Start with a big gap, then reduce the gap
+        for (int gap = n/2; gap > 0; gap /= 2)
+        {
+            // Do a gapped insertion sort for this gap size.
+            // The first gap elements a[0..gap-1] are already
+            // in gapped order keep adding one more element
+            // until the entire array is gap sorted
+            for (int i = gap; i < n; i += 1)
+            {
+                // add a[i] to the elements that have been gap
+                // sorted save a[i] in temp and make a hole at
+                // position i
+                int temp = data[i];
+
+                // shift earlier gap-sorted elements up until
+                // the correct location for a[i] is found
+                int j;
+                for (j = i; j >= gap && data[j - gap] > temp; j -= gap)
+                    data[j] = data[j - gap];
+
+                // put temp (the original a[i]) in its correct
+                // location
+                data[j] = temp;
+            }
+        }
+    }
+
+    public static void flipSort(int[] data){
+        int n = data.length;
+        // Start from the complete
+        // array and one by one
+        // reduce current size by one
+        for (int curr_size = n; curr_size > 1; --curr_size)
+        {
+            // Find index of the
+            // maximum element in
+            // arr[0..curr_size-1]
+            int mi = findMax(data, curr_size);
+
+            // Move the maximum element
+            // to end of current array
+            // if it's not already at
+            // the end
+            if (mi != curr_size-1)
+            {
+                // To move at the end,
+                // first move maximum
+                // number to beginning
+                flip(data, mi);
+
+                // Now move the maximum
+                // number to end by
+                // reversing current array
+                flip(data, curr_size-1);
+            }
+        }
+    }
+    // Returns index of the
+    // maximum element in
+    // arr[0..n-1]
+    static int findMax(int arr[], int n)
+    {
+        int mi, i;
+        for (mi = 0, i = 0; i < n; ++i)
+            if (arr[i] > arr[mi])
+                mi = i;
+        return mi;
+    }
+
+    /* Reverses arr[0..i] */
+    static void flip(int arr[], int i)
+    {
+        int temp, start = 0;
+        while (start < i)
+        {
+            temp = arr[start];
+            arr[start] = arr[i];
+            arr[i] = temp;
+            start++;
+            i--;
+        }
+    }
 
     public static void radixSort(){}
 
@@ -113,7 +228,7 @@ public class Sort {
     public static void main(String[] args){
       int[] test = new int[]{2,6,1,3,4,9,8,0,5,7};
 
-      Sort.bubleSort(test);
+      Sort.flipSort(test);
       System.out.println(Arrays.toString(test));
 
     }

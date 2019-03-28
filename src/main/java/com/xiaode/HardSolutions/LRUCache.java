@@ -1,9 +1,6 @@
 package com.xiaode.HardSolutions;
 
-import java.util.Collections;
-import java.util.LinkedHashMap;
-import java.util.LinkedList;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by liyangde on Oct, 2018
@@ -33,6 +30,7 @@ import java.util.Map;
  */
 public class LRUCache {
     private LinkedHashMap<Integer, Integer> cache;
+    private Queue<Integer> queue;
     private int size;
     public LRUCache(int capacity) {
         cache = new LinkedHashMap<Integer, Integer>(capacity, 0.75f, true){
@@ -41,7 +39,9 @@ public class LRUCache {
                 return size() > size;
             }
         };
+
         size = capacity;
+        queue = new LinkedList<>();
     }
 
     public int get(int key) {

@@ -32,9 +32,6 @@ public class MinStack {
     public void pop() {
         Integer num = dataStack.pop();
         if (num.equals(minStack.peek())) minStack.pop();//这里不能用 == 运算符因为是Integer类型，切记莫忘
-        Object obj;
-
-
     }
 
     public int top() {

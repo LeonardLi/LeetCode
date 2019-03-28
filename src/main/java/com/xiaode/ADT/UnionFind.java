@@ -1,5 +1,8 @@
 package com.xiaode.ADT;
 
+import java.util.Iterator;
+import java.util.List;
+
 /**
  * Created by liyangde on Dec, 2018
  */
@@ -62,4 +65,42 @@ public class UnionFind {
         }
     }
 
+}
+
+//UnionFind with path compression
+class UnionFind2 {
+    private int[] father;
+    private int count;
+    public UnionFind2(int n) {
+        father = new int[n];
+        count = n;
+        for (int i = 0; i < n; i++) {
+            father[i] = i;
+        }
+    }
+    public int count() {
+        return this.count;
+    }
+
+    public int find(int p) {
+        int root = father[p];
+        while (root != father[root])
+            root = father[root];
+        //compress the path
+        while (p != root) {
+            int tmp = father[p];
+            father[p] = root;
+            p = tmp;
+        }
+        return root;
+    }
+
+    public void union(int p, int q) {
+        int fatherP = find(p);
+        int fatherQ = find(q);
+        if (fatherP != fatherQ) {
+            father[fatherP] = fatherQ;
+            count--;
+        }
+    }
 }
