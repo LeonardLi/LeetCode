@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/NumberofValidSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ReachableNodesInSubdividedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BulbSwitcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BulbSwitcherII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindAllDuplicatesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AccountsMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HandofStraights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LargestBSTSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PrimePalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PourWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PourWater.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,40 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/StatisticsfromLargeSample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CarPooling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PourWater.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/FindAllDuplicatesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,11 +95,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BulbSwitcherII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="-394">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PrimePalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HandofStraights.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="41" column="61" lean-forward="true" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LargestBSTSubtree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="class#Result#0;class#LargestBSTSubtree#0" />
+                <element signature="method#largestBSTSubtree#0;class#LargestBSTSubtree#0" />
+                <element signature="method#traverse#0;class#LargestBSTSubtree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AccountsMerge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+              <folding>
+                <element signature="e#2683#2684#0" expanded="true" />
+                <element signature="e#2747#2748#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,10 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/AlienDictionary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/WordLadderII.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/FindMedianfromDataStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/MedianFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HitCounter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NumberofIslandsII.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/Sort/Sort.java" />
@@ -270,6 +275,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/NumberofValidSubarrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/ReachableNodesInSubdividedGraph.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BulbSwitcherII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PrimePalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HandofStraights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LargestBSTSubtree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AccountsMerge.java" />
       </list>
     </option>
   </component>
@@ -297,7 +306,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+    <option name="y" value="38" />
     <option name="width" value="1280" />
     <option name="height" value="740" />
   </component>
@@ -369,7 +378,7 @@
     <property name="SearchEverywhereHistoryKey" value="ugly&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.UglyNumber&#10;Trie&#9;PSI&#9;JAVA://com.xiaode.ADT.Trie&#10;Combin&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.CombinationSum&#10;StroBo&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.StrobogrammaticNumber&#10;Interval&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.MergeIntervals.Interval&#10;Most&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.MostCommonWord&#10;Sen&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/SentenceSimilarity.java&#10;ValidWord&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidWordSquare&#10;ValidPh&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidPhoneNumbers&#10;flood&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.FloodFill&#10;Long&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/LongestIncreasingSubsequence.java&#10;Palindr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LongestPalindrome&#10;pa&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.PalindromicSubstrings&#10;pali&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PalindromeLinkedList&#10;TOp&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Top&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Alice&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/AliceAndBob.java&#10;happy&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/HappyNumber.java&#10;validpare&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ValidParentheses.java&#10;stack&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementQueueUsingStacks&#10;Word&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/WordLadder.java&#10;longest increasi&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.LongestIncreasingSubsequence&#10;Happy&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HappyNumber&#10;Quad&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ConstructQuadTree.java&#10;Image&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.RotateImage&#10;image&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImageSmoother&#10;Thread&#9;PSI&#9;JAVA://com.xiaode.HardSolutions.ThreadB&#10;interval&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java&#10;InsertInterval&#9;PSI&#9;JAVA://javax.swing.ListSelectionModel#insertIndexInterval&#10;strstr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementstrStr#strStr&#10;Paren&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidParentheses&#10;Parent&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.GenerateParentheses&#10;TopK&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.TopKFrequentElements&#10;Prime&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/CountPrimes.java&#10;Tenth&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TenthLine&#10;two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSum&#10;House&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HouseRobber&#10;Ham&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HamingDistance&#10;Two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSumII&#10;Max&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/MaximumDepthOfNaryTree.java&#10;Smal&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/SmallestSubtreeWithAllTheDeepestNodes.java&#10;PathSum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumIII.java&#10;Bin&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;BinaryP&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;Path&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Pathsum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSum.java&#10;path&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumII.java&#10;PathSumIII&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Low&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LowestCommonAncestorOfBinarySearchTree&#10;Lowest&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561680991699" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561861943088" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -649,12 +658,12 @@
       <workItem from="1561157506955" duration="4285000" />
       <workItem from="1561229511783" duration="6914000" />
       <workItem from="1561479519697" duration="13000" />
-      <workItem from="1561607408613" duration="7141000" />
+      <workItem from="1561607408613" duration="10434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="716930000" />
+    <option name="totallyTimeSpent" value="720223000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,10 +675,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="740" extended-state="1" />
+    <frame x="0" y="38" width="1280" height="740" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.28917608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.28917608" />
       <window_info id="Structure" order="1" sideWeight="0.5236593" side_tool="true" weight="0.24365482" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -684,7 +693,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3120482" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49131218" weight="0.3908228" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49131218" visible="true" weight="0.3908228" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5065789" side_tool="true" weight="0.46038863" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -1545,42 +1554,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Contest/LongestStringChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Contest/RemoveAllAdjacentDuplicatesInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Contest/LastStoneWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/TrappingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/Contest/LastStoneWeightII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1905,8 +1878,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/BulbSwitcherII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="-394">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/PrimePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/HandofStraights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="41" column="61" lean-forward="true" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LargestBSTSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="class#Result#0;class#LargestBSTSubtree#0" />
+            <element signature="method#largestBSTSubtree#0;class#LargestBSTSubtree#0" />
+            <element signature="method#traverse#0;class#LargestBSTSubtree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/AccountsMerge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="e#2683#2684#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
