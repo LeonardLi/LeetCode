@@ -9,40 +9,34 @@ import java.util.List;
  */
 public class StatisticsfromLargeSample {
     public double[] sampleStats(int[] count) {
-        double[] res = new double[5];
+        int total = 0, mode = 0;
+        double median=0, min=-1, max=0, avg=0, sum=0;
         boolean isMinFound = false;
-        double sum = 0;
-        int cnt = 0;
-        int num = 0;
-        List<Integer> list = new ArrayList<>();
         for(int i = 0; i <=255; i++) {
             if(count[i] != 0) {
                 if (!isMinFound) {
-                    res[0] = i;//min
+                    min = i;//min
                     isMinFound = true;
                 }
-                res[1] = i; // max
+                max = i; // max
                 sum += i * count[i];
-                num += count[i];
-                if(count[i] >= cnt) {
-                    cnt = count[i];
-                    res[4] = i; //mode
-                }
-
-                int n = i;
-                while(n-- > 0) list.add(count[i]); //median
+                total += count[i];
+                if(count[i] >= count[mode]) mode = i; //mode
             }
         }
-        res[2] = sum/num;
-        if (num % 2 == 0) {
-            //average of num/2-1, num/2
-            res[3] = ((double)list.get(num/2-1) + (double)list.get(num/2))/2;
-        } else {
-            //num/2
-            res[3] = list.get(num/2);
+        avg = sum / total;
+        if (total == 1) median = sum; // single element
+        int m1 = (total + 1) /2, m2 = total/2 + 1;
+
+        for (int i = 0, cnt = 0; total > 1 && i < 256; ++i) {
+            if (cnt < m1 && cnt + count[i] >= m1)
+                median+=i / 2.0d;
+            if(cnt < m2 && cnt+ count[i] >= m2)
+                median+= i / 2.0d;
+            cnt+=count[i];
         }
 
         //minimum, maximum, mean, median, mode
-        return res;
+        return new double[]{min, max, avg, median, mode};
     }
 }
