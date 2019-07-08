@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56471958-41bb-43bb-a3e6-6122f8a0b23b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CoinPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteOperationForTwoStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsufficientNodesinRoottoLeafPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TeemoAttacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NextGreaterElementIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SurroundedRegions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,98 +45,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestRepeatingCharacterReplacement.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SurroundedRegions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/SplitArrayLargestSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsufficientNodesinRoottoLeafPaths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TeemoAttacking.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CoinPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="147">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3284#3285#0" expanded="true" />
+                <element signature="e#3333#3334#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReverseWordsInAString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteOperationForTwoStrings.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NextGreaterElementIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="19" column="94" lean-forward="true" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GlobalandLocalInversions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LargestPlusSign.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding>
-                <element signature="method#orderOfLargestPlusSign#0;class#LargestPlusSign#0" />
-                <element signature="method#count#0;class#LargestPlusSign#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DistantBarcodes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="267">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -212,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/codejam/Foregone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/KthLargestElementInArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/DateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/Contest/LastStoneWeight.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/Contest/RemoveAllAdjacentDuplicatesInString.java" />
@@ -263,6 +182,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CoinPath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReverseWordsInAString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteOperationForTwoStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SurroundedRegions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NextGreaterElementIII.java" />
       </list>
     </option>
   </component>
@@ -299,7 +220,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,14 +267,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ugly&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.UglyNumber&#10;Trie&#9;PSI&#9;JAVA://com.xiaode.ADT.Trie&#10;Combin&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.CombinationSum&#10;StroBo&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.StrobogrammaticNumber&#10;Interval&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.MergeIntervals.Interval&#10;Most&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.MostCommonWord&#10;Sen&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/SentenceSimilarity.java&#10;ValidWord&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidWordSquare&#10;ValidPh&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidPhoneNumbers&#10;flood&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.FloodFill&#10;Long&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/LongestIncreasingSubsequence.java&#10;Palindr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LongestPalindrome&#10;pa&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.PalindromicSubstrings&#10;pali&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PalindromeLinkedList&#10;TOp&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Top&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/TopKFrequentElements.java&#10;Alice&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/AliceAndBob.java&#10;happy&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/HappyNumber.java&#10;validpare&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ValidParentheses.java&#10;stack&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementQueueUsingStacks&#10;Word&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/WordLadder.java&#10;longest increasi&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.LongestIncreasingSubsequence&#10;Happy&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HappyNumber&#10;Quad&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/ConstructQuadTree.java&#10;Image&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.RotateImage&#10;image&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImageSmoother&#10;Thread&#9;PSI&#9;JAVA://com.xiaode.HardSolutions.ThreadB&#10;interval&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/MergeIntervals.java&#10;InsertInterval&#9;PSI&#9;JAVA://javax.swing.ListSelectionModel#insertIndexInterval&#10;strstr&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ImplementstrStr#strStr&#10;Paren&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.ValidParentheses&#10;Parent&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.GenerateParentheses&#10;TopK&#9;PSI&#9;JAVA://com.xiaode.MediumSolutions.TopKFrequentElements&#10;Prime&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/CountPrimes.java&#10;Tenth&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TenthLine&#10;two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSum&#10;House&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HouseRobber&#10;Ham&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.HamingDistance&#10;Two&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.TwoSumII&#10;Max&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/MaximumDepthOfNaryTree.java&#10;Smal&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/MediumSolutions/SmallestSubtreeWithAllTheDeepestNodes.java&#10;PathSum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumIII.java&#10;Bin&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;BinaryP&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/BinaryTreePaths.java&#10;Path&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Pathsum&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSum.java&#10;path&#9;FILE&#9;file:///Users/liyangde/Workspace/LeetCode/src/main/java/com/xiaode/EasySolutions/PathSumII.java&#10;PathSumIII&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.PathSumIII&#10;Low&#9;PSI&#9;JAVA://com.xiaode.EasySolutions.LowestCommonAncestorOfBinarySearchTree&#10;Lowest&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562369553423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562369786302" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -636,12 +557,13 @@
       <workItem from="1561607408613" duration="13168000" />
       <workItem from="1562105181613" duration="6306000" />
       <workItem from="1562128428203" duration="1572000" />
-      <workItem from="1562363696092" duration="2552000" />
+      <workItem from="1562363696092" duration="2671000" />
+      <workItem from="1562558894346" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="733387000" />
+    <option name="totallyTimeSpent" value="735268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,10 +575,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.26895565" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47634068" visible="true" weight="0.273021" />
       <window_info id="Structure" order="1" sideWeight="0.5236593" side_tool="true" weight="0.24365482" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -666,12 +588,12 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281106" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49342105" visible="true" weight="0.397541" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49342105" weight="0.397541" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49049708" weight="0.49775785" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3120482" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49131218" weight="0.3374317" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49131218" visible="true" weight="0.3370253" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5065789" side_tool="true" weight="0.46038863" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -1532,14 +1454,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode-plugin/en/[1]Two Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/DateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/ADT/DPTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -1861,6 +1775,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsufficientNodesinRoottoLeafPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteOperationForTwoStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReverseWordsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CoinPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TeemoAttacking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/SplitArrayLargestSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestRepeatingCharacterReplacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/GlobalandLocalInversions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -1886,55 +1852,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/LongestRepeatingCharacterReplacement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/SurroundedRegions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/HardSolutions/SplitArrayLargestSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/InsufficientNodesinRoottoLeafPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/TeemoAttacking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/CoinPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="147">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3284#3285#0" expanded="true" />
+            <element signature="e#3333#3334#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/ReverseWordsInAString.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/NextGreaterElementIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaode/MediumSolutions/DeleteOperationForTwoStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="19" column="94" lean-forward="true" selection-start-line="19" selection-start-column="94" selection-end-line="19" selection-end-column="94" />
+        <state relative-caret-position="267">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
