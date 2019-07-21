@@ -57,4 +57,28 @@ public class MinimumPathSum {
 
         return minPath[grid[0].length - 1];
     }
+
+    //DFS TLE
+    int[][] dirs = new int[][] {{0,1},{1,0}};
+    int min = Integer.MAX_VALUE;
+    public int minPathSum3(int[][] grid) {
+        if (grid == null || grid.length == 0) return 0;
+        int m = grid.length;
+        int n = grid[0].length;
+        dfs(grid, 0, 0, 0, m, n);
+        return min;
+    }
+
+    private void dfs(int[][] grid, int x, int y, int temp, int c, int r) {
+        if(x >= c || y >= r) return;
+        if(x == c-1 && y == r-1) {
+            min = Math.min(temp+grid[x][y], min);
+            return;
+        }
+
+        for(int[] dir : dirs) {
+            dfs(grid, x+dir[0], y+dir[1], temp+grid[x][y], c ,r);
+        }
+        return;
+    }
 }
