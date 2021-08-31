@@ -26,3 +26,6 @@ target/classes/*
 out/
 src/main/resources/
 src/test/
+target/
+.vscode/
+.classpath

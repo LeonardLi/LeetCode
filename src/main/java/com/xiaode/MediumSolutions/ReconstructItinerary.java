@@ -1,7 +1,5 @@
 package com.xiaode.MediumSolutions;
 
-import com.sun.tools.hat.internal.util.Comparer;
-
 import java.util.*;
 
 /**
